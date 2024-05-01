@@ -4,9 +4,9 @@ using for loop and if-else*/
 package Task9;
 // package import
 import java.util.Scanner;
-
+//Create the class Palindrome
 public class Palindrome {
-
+	//Main class
 	public static void main(String[] args) {
 		//declaring Variables
 		int i; 
